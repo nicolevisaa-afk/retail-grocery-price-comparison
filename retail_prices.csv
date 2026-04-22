@@ -1,0 +1,35 @@
+market,retailer,product_name,category,package_size,unit_type,price_local,currency,price_type
+China,Sam's Club,Milk,Dairy,2,L,17.9,RMB,regular
+US,Walmart,Milk,Dairy,1.89,L,1.84,USD,regular
+Indonesia,Hypermart,Milk,Dairy,0.946,L,18590,IDR,regular
+China,Sam's Club,Yogurt,Dairy,1230,g,53.9,RMB,regular
+US,Walmart,Yogurt,Dairy,907,g,3.38,USD,regular
+Indonesia,Hypermart,Yogurt,Dairy,473,g,54443,IDR,discounted
+,,,,,,,,
+China,Sam's Club,Rice,Grains,5,kg,59.9,RMB,regular
+US,Walmart,Rice,Grains,4.5,kg,14.97,USD,regular
+Indonesia,Hypermart,Rice,Grains,5,kg,119900,IDR,regular
+China,Sam's Club,Bread,Grains,875,g,23.9,RMB,regular
+US,Walmart,Bread,Grains,567,g,2.74,USD,discounted
+Indonesia,Hypermart,Bread,Grains,370,g,15000,IDR,regular
+,,,,,,,,
+China,Sam's Club,Eggs,Protein,30,pcs,18.9,RMB,regular
+US,Walmart,Eggs,Protein,12,pcs,1.67,USD,regular
+Indonesia,Hypermart,Eggs,Protein,10,pcs,33100,IDR,regular
+China,Sam's Club,Canned Tuna,Protein,960,g,69.9,RMB,regular
+US,Walmart,Canned Tuna,Protein,142,g,0.96,USD,regular
+Indonesia,Hypermart,Canned Tuna,Protein,170,g,24990,IDR,regular
+,,,,,,,,
+China,Sam's Club,Coca-cola,Beverages,4950,ml,39.9,RMB,regular
+US,Walmart,Coca-cola,Beverages,1330,ml,4.82,USD,regular
+Indonesia,Hypermart,Coca-cola,Beverages,250,ml,5990,IDR,regular
+China,Sam's Club,Bottled water,Beverages,7.2,L,22.8,RMB,regular
+US,Walmart,Bottled water,Beverages,2.13,L,3.22,USD,regular
+Indonesia,Hypermart,Bottled water,Beverages,18,L,61990,IDR,regular
+,,,,,,,,
+China,Sam's Club,Toilet paper,Household,30,pcs,64.9,RMB,regular
+US,Walmart,Toilet paper,Household,6,pcs,6.98,USD,regular
+Indonesia,Hypermart,Toilet paper,Household,10,pcs,17990,IDR,regular
+China,Sam's Club,Laundry detergent,Household,7.6,L,79.9,RMB,regular
+US,Walmart,Laundry detergent,Household,4.44,L,8.97,USD,discounted
+Indonesia,Hypermart,Laundry detergent,Household,1.6,L,33390,IDR,regular
